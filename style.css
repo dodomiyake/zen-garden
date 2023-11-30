@@ -29,7 +29,7 @@ h3 {
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #7D775C;
+	color: #534f3e;
 	}
 a:link { 
 	font-weight: bold; 
@@ -43,7 +43,7 @@ a:visited {
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #9685BA;
+	color: #4f406e;
 	}
 abbr {
 	border-bottom: none;
